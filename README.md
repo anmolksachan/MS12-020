@@ -1,3 +1,6 @@
+[![](http://img.youtube.com/vi/otSwacf0nVM/0.jpg)](http://www.youtube.com/watch?v=otSwacf0nVM "MS12-020")
+
+
 # MS12-020
 CVE -2012-0152
 
